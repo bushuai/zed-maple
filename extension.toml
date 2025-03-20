@@ -1,0 +1,7 @@
+id = "maple-theme"
+name = "Maple Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["buu <hi@bushuai.cc>"]
+description = "The Maple Theme for Zed."
+repository = "https://github.com/bushuai/maple-zed"
